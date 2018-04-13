@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="Nombres">
+        <item>Edwin</item>
+        <item>Rafael</item>
+        <item>Max</item>
+        <item>David</item>
+        <item>Roberto</item>
+        <item>Salvador</item>
+        <item>Juan</item>
+        <item>Karla</item>
+        <item>Jennifer</item>
+    </string-array>
+    <string-array name="Edades">
+        <item>22</item>
+        <item>21</item>
+        <item>21</item>
+        <item>21</item>
+        <item>19</item>
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+    </string-array>
+    <string-array name="Carreras">
+        <item>Electrica</item>
+        <item>Sistemas</item>
+        <item>em?????</item>
+        <item>Civil</item>
+        <item>Industrial</item>
+        <item>Electrica</item>
+        <item>Mercadeo</item>
+        <item>Administracion</item>
+        <item>Contaduría</item>
+    </string-array>
+</resources>
